@@ -69,3 +69,5 @@ or
 ```
 WorldFactbook.list_countries(:smallest)
 ```
+
+[Code Climate](https://codeclimate.com/github/abrahamoshel/world_factbook)
